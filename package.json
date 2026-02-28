@@ -1,6 +1,6 @@
 {
   "name": "huroof",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "type": "module",
   "description": "Lightweight Arabic number and date formatters",
   "main": "./dist/index.cjs",
@@ -71,4 +71,3 @@
     "vitest": "^4.0.18"
   }
 }
-
