@@ -1,0 +1,5 @@
+AGENTS.md
+codex.config.json
+codex.config.schema.json
+scripts/validate-codex-config.cjs
+docs/
